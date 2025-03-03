@@ -1,4 +1,4 @@
-## Documentación Frontend  
+## DOCUMENTACION FRONTEND  
 ### Proyecto ***"Farmacia"***
 
 El objetivo principal de este proyecto es el de mostrar un registro de las diferentes framacias disponibles dentro de la apliacaion
