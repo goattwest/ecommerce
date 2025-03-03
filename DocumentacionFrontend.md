@@ -11,3 +11,5 @@ cuenta con un textfield el cual el usuario escribirá el nombre de la Farmacia q
 realizar la función esperada de busqueda. Y por ultimo contamos con una tabla donde podemos ver los registros mandados desde nuestra base de datos a 
 la interfaz de usuario.
 
+![Captura] (https://drive.google.com/file/d/1OGGkBCdPrywXzztyAyqIcNsxoo0_0G_f/view?usp=drive_link)
+
